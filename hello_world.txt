@@ -2,5 +2,7 @@ Hey!
 
 This is some random text
 
+- This is a new text to check whether git config --global core.editor "code --wait" worked or not
+
 
 :O
